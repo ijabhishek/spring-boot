@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.love2learn.springboot.myapp.MyappApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.651 s - in com.love2learn.springboot.myapp.MyappApplicationTests
